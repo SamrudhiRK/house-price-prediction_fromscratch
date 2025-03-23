@@ -6,6 +6,7 @@ This project implements Linear Regression from scratch to predict house prices b
 ## Project Overview  
 This project implements **Linear Regression from scratch** to predict house prices. It also includes **L1 (Lasso) and L2 (Ridge) regularization** to improve model performance and prevent overfitting.  
 ## Dataset  
+The data can be found at: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 The dataset contains features such as:  
 - **Main Road Access** (`yes/no` converted to binary)  
 - **Various House Attributes**  
@@ -33,7 +34,7 @@ pip install numpy pandas matplotlib
 ## How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/linear-regression-house-price.git
+   git clone https://github.com/SamrudhiRK/house-price-prediction_fromscratch.git
    ```
 2. Navigate to the project folder:  
    ```bash
